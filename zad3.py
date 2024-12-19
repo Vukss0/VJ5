@@ -1,1 +1,0 @@
-print("Greškom dodana skripta. Obrisano!")
